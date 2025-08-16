@@ -23,7 +23,7 @@ It demonstrates a complete **data science workflow** including preprocessing, vi
 ---
 
 ## 🛠️ Requirements
-- Python 3.8+  
+- Python   
 - Libraries:  
   - pandas  
   - numpy  
